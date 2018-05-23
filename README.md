@@ -1,5 +1,5 @@
 
-# Desarrollo software administracion de usuarios
+# Desarrollo software administración de usuarios
 
 
 ## Se requiere realizar un software con las siguientes características.
