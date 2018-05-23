@@ -15,7 +15,7 @@ estar excluidos del repositorio, posteriormente realizar el admin o front de la 
 ## Tener en cuenta
 
 
-- Documentar en el archivo README.md como se publica o se sube la aplicación a un servidor.  
+- Documentar en el archivo **README.md** como se publica o se sube la aplicación a un servidor.  
 
 - La solución debe contener estandares, patrones y metodologías conocidas y claras
 de desarrollo las cuales deben estar sustentadas dentro del codigo.
@@ -25,8 +25,8 @@ de desarrollo las cuales deben estar sustentadas dentro del codigo.
 - El repositorio debe contener dos folders con los nombres **api** y **webapp**
   respectivamente.
 
-- Hostear la aplicación en un repositorio publico de github
-sobre la rama master y enviar la url al correo **yefriddavid@gmail.com**
+- Hostear la aplicación en un repositorio publico de **github**
+sobre la rama **master** y enviar la url al correo **yefriddavid@gmail.com**
 
 - Debe tener encuenta que cuenta con 4 horas para realizar la prueba, que inicia
   una ves se comparte este enlace.
