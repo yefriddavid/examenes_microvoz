@@ -89,3 +89,8 @@ Ecmascript 7
 | Redux         |  		| 	x 	|
 | Axios         |  		| 	x 	|
 | Redux-sagas   |  		| 	x 	|
+
+
+
+
+### Es libre de usar las librerias o recursos que desee dentro de ReactJs o NodeJs
