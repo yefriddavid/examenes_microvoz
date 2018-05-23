@@ -29,7 +29,7 @@ de desarrollo las cuales deben estar sustentadas dentro del codigo.
 sobre la rama master y enviar la url al correo **yefriddavid@gmail.com**
 
 - Debe tener encuenta que cuenta con 4 horas para realizar la prueba, que inicia
-  una ves se comparte el link.
+  una ves se comparte este enlace.
 
 
 ### Folder project tree example
