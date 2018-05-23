@@ -17,7 +17,7 @@ estar excluidos del repositorio, posteriormente realizar el admin o front de la 
 
 - Documentar en el archivo **README.md** como se publica o se sube la aplicación a un servidor.  
 
-- La solución debe contener estandares, patrones y metodologías conocidas y claras
+- La solución debe contener estandares, patrones, metodologías conocidas y claras
 de desarrollo las cuales deben estar sustentadas dentro del codigo.
 
 - El software debe estar escrito en ingles a nivel de codigo y presentación.
