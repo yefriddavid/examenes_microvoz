@@ -47,7 +47,7 @@ de desarrollo las cuales deben estar sustentadas dentro del codigo.
 
 ### Librerias requeridas a usar
 ```
-react
+reactJs
 ```
 
 
@@ -75,19 +75,23 @@ Ecmascript 7
 ```
 
 
-| Tecnologías   | Requerida     | Opcional  	|
-| ------------- |:-------------:| -------------:|
-| React         | 	x 	|  		|
-| Sagas         |  		| 	x 	|
-| Redux         |  		| 	x 	|
-| Axios         |  		| 	x 	|
-| Redux-sagas   |  		| 	x 	|
 
 
 
-### La presentación del software debe ser algo similar al siguiente ejemplo.
+### La presentación del software debe ser algo aproximado al siguiente ejemplo.
 
 
 ![Example](./example.png)
 
 
+
+
+
+
+| Tecnologías   | Requerida     | Opcional  	|
+| ------------- |:-------------:|:-------------:|
+| ReactJs       | 	x 	|  		|
+| Sagas         |  		| 	x 	|
+| Redux         |  		| 	x 	|
+| Axios         |  		| 	x 	|
+| Redux-sagas   |  		| 	x 	|
