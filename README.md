@@ -28,7 +28,7 @@ de desarrollo las cuales deben estar sustentadas dentro del codigo.
 - Hostear la aplicación en un repositorio publico de **github**
 sobre la rama **master** y enviar la url al correo **yefriddavid@gmail.com**
 
-- Debe tener encuenta que cuenta con 3 horas para realizar la prueba, que inicia
+- Debe tener encuenta que cuenta con 4 horas para realizar la prueba, que inicia
   una ves se comparte este enlace.
 
 
