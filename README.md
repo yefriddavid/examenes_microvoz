@@ -35,6 +35,7 @@ de desarrollo las cuales deben estar sustentadas dentro del codigo.
 
 
 ### Folder project tree example
+```
 ./projects/usermanager/
 .
 ├── api
@@ -42,7 +43,7 @@ de desarrollo las cuales deben estar sustentadas dentro del codigo.
 │   └── package.json
 └── webapp
     └── package.json
-
+```
 
 ### Librerias requeridas a usar
 ```
