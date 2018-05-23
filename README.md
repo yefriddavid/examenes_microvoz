@@ -14,16 +14,8 @@ estar excluidos del repositorio, posteriormente realizar el admin o front de la 
 
 ## Tener en cuenta
 
-- Hostear la applicación en un repositorio publico de github
-sobre la rama master y enviar la url al correo **yefriddavid@gmail.com**
 
-- Las variables de configuración de la solución frontend y backend
-deben estar definidas dentro de un archivo .env.example, para cada proyecto si
-dichas variables son necesarias y excluir el .env del repositorio global.
-
-
-- El despliegue de las applicaciones debe estar documentado dentro del archivo README.md donde sea clara la descripción de como se despliega el
-software.  
+- Documentar en el archivo README.md como se publica o se sube la apicación en un servidor.  
 
 - La solucion debe contener estandares, patrones y metodologías conocidas y claras
 de desarrollo las cuales deben estar sustentadas dentro del codigo.
@@ -33,6 +25,8 @@ de desarrollo las cuales deben estar sustentadas dentro del codigo.
 - El repositorio debe contener dos folders con los nombres **api** y **webapp**
   respectivamente.
 
+- Hostear la applicación en un repositorio publico de github
+sobre la rama master y enviar la url al correo **yefriddavid@gmail.com**
 
 ### Folder project tree example
 ```
