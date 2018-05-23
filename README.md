@@ -5,7 +5,7 @@
 ## Se requiere realizar un software con las siguientes características.
 
 
-Realizar una aplicación con la capacidad de insertar, modificar, eliminar,
+Realizar una aplicación con la capacidad de insertar, modificar, eliminar
 y consultar (CRUD) registros sobre una tabla de usuarios con los campos (id, nombre, apellido,
 password, email, estado, teléfono) sobre una base de datos local que puede ser en archivos de tipo (.txt,
 .json u otro) preferiblemente, todo esto en nodejs, dichos archivos deben de 
@@ -15,9 +15,9 @@ estar excluidos del repositorio, posteriormente realizar el admin o front de la 
 ## Tener en cuenta
 
 
-- Documentar en el archivo README.md como se publica o se sube la apicación en un servidor.  
+- Documentar en el archivo README.md como se publica o se sube la aplicación a un servidor.  
 
-- La solucion debe contener estandares, patrones y metodologías conocidas y claras
+- La solución debe contener estandares, patrones y metodologías conocidas y claras
 de desarrollo las cuales deben estar sustentadas dentro del codigo.
 
 - El software debe estar escrito en ingles a nivel de codigo y presentación.
@@ -27,6 +27,10 @@ de desarrollo las cuales deben estar sustentadas dentro del codigo.
 
 - Hostear la applicación en un repositorio publico de github
 sobre la rama master y enviar la url al correo **yefriddavid@gmail.com**
+
+- Debe tener encuenta que cuenta con 4 horas para realizar la prueba, que inicia
+  una ves se comparte el link.
+
 
 ### Folder project tree example
 ```
