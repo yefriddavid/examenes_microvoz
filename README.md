@@ -88,11 +88,13 @@ Ecmascript 7
 
 | Tecnologías   | Requerida     | Opcional  	|
 | ------------- |:-------------:|:-------------:|
+| NodeJs        | 	x 	|  		|
 | ReactJs       | 	x 	|  		|
 | Sagas         |  		| 	x 	|
 | Redux         |  		| 	x 	|
 | Axios         |  		| 	x 	|
 | Redux-sagas   |  		| 	x 	|
+| Express       |  		| 	x 	|
 
 
 
