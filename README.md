@@ -25,7 +25,7 @@ de desarrollo las cuales deben estar sustentadas dentro del codigo.
 - El repositorio debe contener dos folders con los nombres **api** y **webapp**
   respectivamente.
 
-- Hostear la applicación en un repositorio publico de github
+- Hostear la aplicación en un repositorio publico de github
 sobre la rama master y enviar la url al correo **yefriddavid@gmail.com**
 
 - Debe tener encuenta que cuenta con 4 horas para realizar la prueba, que inicia
